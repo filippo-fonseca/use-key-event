@@ -42,7 +42,7 @@ export default Home;
 
 ## Contributing
 
-PR's, issues, and contributions are welcome!
+PR's, issues, and contributions are welcome! You can read the code of conduct [here](https://github.com/filippo-fonseca/use-key-event/blob/main/CODE_OF_CONDUCT.md).
 
 <hr />
 
