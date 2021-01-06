@@ -2,7 +2,7 @@
 
 ![CI Status](https://github.com/webmail/use-last-fm/workflows/CI/badge.svg)
 
-⌨️ A lightweight, zero-dependency React hook for detecting dynamic keyboard events.
+⌨️ A lightweight, zero-dependency React hook for detecting dynamic keyboard events. Written in TypeScript.
 
 ## Installation
 
