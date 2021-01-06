@@ -1,6 +1,6 @@
 import { useEffect, useRef } from 'react';
 
-const useKey = (key: any, cb: any) => {
+const useKeyEvent = (key: any, cb: any) => {
   const callbackKey = useRef(cb);
 
   useEffect(() => {
@@ -18,4 +18,4 @@ const useKey = (key: any, cb: any) => {
   }, [key]);
 };
 
-export default useKey;
+export default useKeyEvent;
