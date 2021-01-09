@@ -20,11 +20,12 @@ npm i use-key-event
 import useKeyEvent from "use-key-event";
 
 const Home = () => {
-  useKeyEvent("Enter", handleEvent);
 
   const handleEvent = () => {
     console.log("The enter key has been pressed.");
   };
+  
+    useKeyEvent("Enter", handleEvent);
 
   return (
     <p>
