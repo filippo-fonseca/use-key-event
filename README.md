@@ -2,7 +2,7 @@
 
 ![CI Status](https://github.com/webmail/use-last-fm/workflows/CI/badge.svg)
 ![Stars](https://img.shields.io/github/stars/filippo-fonseca/use-key-event)
-![Twitter](https://img.shields.io/twitter/url?style=social)
+![LICENSE](https://img.shields.io/github/license/filippo-fonseca/use-key-event)
 
 ⌨️ A lightweight, zero-dependency React hook for detecting dynamic keyboard events. Written in TypeScript.
 
