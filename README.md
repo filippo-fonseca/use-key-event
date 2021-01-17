@@ -45,7 +45,7 @@ export default Home;
 
 ## TypeScript
 
-`useKeyEvent` is written in TypeScript and comes with type definitions out-of-the-box, so using it with TypeScript in your application will be seamless and integrated.
+`use-key-event` is written in TypeScript (statically-typed) and comes with type definitions out-of-the-box, so using it with TypeScript in your application (even in production-grade environments) will be seamless and integrated.
 
 ## Contributing
 
