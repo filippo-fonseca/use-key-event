@@ -1,5 +1,7 @@
 # `useKeyEvent`
 
+#### v0.0.3-alpha | STABLE
+
 ![CI Status](https://github.com/webmail/use-last-fm/workflows/CI/badge.svg)
 ![Stars](https://img.shields.io/github/stars/filippo-fonseca/use-key-event)
 ![LICENSE](https://img.shields.io/github/license/filippo-fonseca/use-key-event)
