@@ -15,10 +15,13 @@ yarn add use-key-event
 npm i use-key-event
 ```
 
+`use-key-event` is lightweight and carries no extra dependencies, making it perfect for building production applications and dkeeping them light.
+
 ## Usage
 
 **Example:**
 
+###### Home.tsx
 ```tsx
 import useKeyEvent from "use-key-event";
 
