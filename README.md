@@ -7,7 +7,7 @@
 ![LICENSE](https://img.shields.io/github/license/filippo-fonseca/use-key-event)
 ![SIZE](https://img.shields.io/bundlephobia/minzip/use-key-event)
 
-⌨️ A lightweight, zero-dependency React hook for detecting dynamic keyboard events. Written in TypeScript.
+⌨️ A lightweight, zero-dependency React hook for detecting dynamic keyboard events. Written in TypeScript. 
 
 ## Installation
 
