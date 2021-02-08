@@ -1,12 +1,20 @@
 import 'react-app-polyfill/ie11';
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
-import { Thing } from '../.';
+import useKeyEvent from '../src/index';
 
 const App = () => {
+  const [pressed, setPressed] = React.useState(false);
+
+  useKeyEvent('Enter', () => {
+    setPressed((v) => !v);
+  });
+
   return (
     <div>
-      <Thing />
+      <p>Press the enter key!</p>
+
+      {pressed ? 'The enter key was pressed!' : null}
     </div>
   );
 };
